@@ -19,9 +19,9 @@ https://drive.google.com/file/d/1SsqQ6yFKDqGCN7_e-tIGQ5qgBb4o7HcK/view?usp=shari
 + re
 
 ### A chromedriver (v86) is used to enable selenium, to download one on your own terminal:
-    https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip
+https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip
     
-    Remeber to change the `chromepath' to your local chromdriver location in main section if you would like to run the code locally
+Remeber to change the `chromepath' to your local chromdriver location in main section if you would like to run the code locally
 
 ## Data source
  
