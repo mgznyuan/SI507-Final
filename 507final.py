@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import sqlite3
-
+import re
 
 CACHE_FILENAME='cache_file.txt'
 
