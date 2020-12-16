@@ -38,7 +38,7 @@ class Makeup:
     review_number: string
         the number of reviews of a product (e.g. 3.5k)
 
-    product_url: float
+    product_url: string
         the url of the product
         
     '''
@@ -689,6 +689,7 @@ def print_product_details(products, id1, id2):
     print(product1.info())
     print('+-------------------------------------------------------------------------------+')
     print(product2.info())
+    print("+------------- Trying to find relevant products of same brands -----------------+")
     brand1=product1.brand
     brand2=product2.brand
     list.append(product1)
